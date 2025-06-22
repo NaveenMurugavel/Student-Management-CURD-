@@ -41,3 +41,14 @@ student_management/
 
 ```bash
 python main.py
+
+
+📌 Use Case
+Perfect for beginners who want to:
+
+Learn CRUD operations
+
+Practice Python and SQLite integration
+
+Build CLI-based database apps
+
